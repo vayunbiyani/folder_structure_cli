@@ -1,0 +1,9 @@
+[package]
+name = "folder_structure_cli"  # Unique name for crates.io
+version = "0.1.0"
+edition = "2021"
+description = "CLI tool to list the folder and file structure of a specified directory."
+license = "MIT"
+authors = ["Vayun Biyani vayunbiyani9@gmail.com"]
+
+[dependencies]
